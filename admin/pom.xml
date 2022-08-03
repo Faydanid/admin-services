@@ -205,6 +205,10 @@
 				<sonar.exclusions>${sonar.coverage.exclusions}</sonar.exclusions>
 				<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 			</properties>
+			<properties>
+                                   <sonar.organization>faydanid</sonar.organization>
+                                   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+                        </properties>
 			<activation>
 				<activeByDefault>false</activeByDefault>
 			</activation>
